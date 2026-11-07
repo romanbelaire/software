@@ -8,10 +8,10 @@ Study desk for research-scientist interview prep. Knowledge checks, untimed Pyth
 
 https://github.com/romanbelaire/study-room
 
-## FlexMem
+## Vital synth harness
 
-Local MCP harness for sound design in Vital. An agent edits `.vital` presets, renders them, analyzes the audio, and stores a sound only after a person accepts it.
+An agent edits `.vital` presets, renders them, analyzes the audio, and stores a sound only after a person accepts it.
 
-https://github.com/romanbelaire/flexmem
+https://github.com/romanbelaire/vital-synth-harness
 
 To add a project, append a section with a short description and the repository URL.
