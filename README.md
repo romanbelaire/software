@@ -1,10 +1,10 @@
 # Software
 
-Projects I want to share. Each one has its own repository. 
+Projects I want to share. 
 
 ## Lattice
 
-Study desk for research-scientist interview prep. Knowledge checks, Python in the browser, and an MCP harness a host agent uses for discussion mode.
+Study desk for research-scientist interview prep. 
 
 https://github.com/romanbelaire/study-room
 
